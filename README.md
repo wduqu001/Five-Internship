@@ -10,7 +10,7 @@ Por favor, siga as orientações no arquivo `Desafio FizzBuzz.md` junto deste, p
 Escrever testes unitarios utilizando qualquer linguagem de programação
 
 ## Submissão
-Envie o URL de um repositório git público para `recrutamento@fiveconsultoria.com`.
+Envie a URL de um repositório git público com seu código para `developers@fivevalidation.com`.
 
 Por exemplo: 
   [GitHub](https://github.com) ou 
@@ -26,4 +26,4 @@ Nossa análise vai além do resultado final então se você tiver um problema im
 - Empenho em entregar algo, mesmo que minimamente funcional
 - Expressar o que foi feito através da mensagem do commit. [Boas pratícas](https://github.com/trein/dev-best-practices/wiki/Git-Commit-Best-Practices)
 
-Caso tenha dúvidas, envie um e-mail para `recrutamento@fiveconsultoria.com`
+Caso tenha dúvidas, envie um e-mail para `developers@fivevalidation.com`
